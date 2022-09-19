@@ -1,0 +1,8 @@
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\bin\Debug\CC-.exe.config
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\bin\Debug\CC-.exe
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\bin\Debug\CC-.pdb
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\obj\Debug\CC-.csproj.AssemblyReference.cache
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\obj\Debug\CC-.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\obj\Debug\CC-.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\obj\Debug\CC-.exe
+C:\Users\lenovo\Pictures\CC-\CC-\CC-\obj\Debug\CC-.pdb
