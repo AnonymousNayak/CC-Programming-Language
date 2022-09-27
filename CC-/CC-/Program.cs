@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -69,7 +69,43 @@ namespace ConsoleApp1
                 Console.WriteLine("Top Billionar       You will get the News of Top Billionar");
                 Console.WriteLine("Top hacker       You will get the Top hacker List");
                 Console.WriteLine("Top gamer        You will get the Top youtube List");
-                Console.WriteLine("Hacking          you Will go to hackin");
+                Console.WriteLine("Owner            You will get the Owner Information");
+                Console.WriteLine("Pakistan         You will get Info of Pakistan");
+                Console.WriteLine("India            you will get india info");
+                Console.WriteLine("China            you will get China Info");
+                Console.WriteLine("USA              you will get USA info");
+                Console.WriteLine("Germany          you will get Germany info");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
                 Console.WriteLine("");
                 Console.WriteLine("---------------------End------------------------------");
             }
@@ -113,6 +149,182 @@ namespace ConsoleApp1
                 Console.WriteLine("10.CaptainSparklez");
                 Console.WriteLine("11.The Game Theorists");
                 Console.WriteLine("------------------END-----------------------");
+            }
+            else if (command == "Pakistan")
+            {
+                Console.WriteLine("Pakistan, populous multiethnic country of South Asia. Having a predominately Indo-Iranian speaking population, Pakistan has historically and culturally been associated with its neighbours Iran, Afghanistan, and India. Since Pakistan and India achieved independence in 1947, Pakistan has been distinguished from its larger southeastern neighbour by its overwhelmingly Muslim population (as opposed to the predominance of Hindus in India). Pakistan has struggled throughout its existence to attain political stability and sustained social development. Its capital is Islamabad, in the foothills of the Himalayas in the northern part of the country, and its largest city is Karachi, in the south on the coast of the Arabian Sea.");
+            }
+            else if (command == "India")
+            {
+                Console.WriteLine("India, officially the Republic of India (Hindi: Bhārat Gaṇarājya),[25] is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[f] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia. The nation's capital city is New Delhi.");
+            }
+            else if (command == "China")
+            {
+                Console.WriteLine("China (Chinese: 中国; pinyin: Zhōngguó), officially the People's Republic of China (PRC; Chinese: 中华人民共和国; pinyin: Zhōnghuá Rénmín Gònghéguó), is a country in East Asia. It is the world's most populous country with a population exceeding 1.4 billion people.[i] China spans five geographical time zones[j] and borders fourteen countries by land,[k] the most of any country in the world, tied with Russia. China also has a narrow maritime boundary with the disputed Taiwan.[l][m] Covering an area of approximately 9.6 million square kilometers (3,700,000 sq mi), it is the world's third or fourth largest country.[n] The country consists of 22 provinces,[l] five autonomous regions, four municipalities, and two Special Administrative Regions (Hong Kong and Macau). The national capital is Beijing, and the most populous city and financial center is Shanghai.");
+            }
+            else if (command == "Germany")
+            {
+                Console.WriteLine("Germany (German: Deutschland, pronounced [ˈdɔʏtʃlant] (listen)), officially the Federal Republic of Germany,[f] is a country in Central Europe. It is the second most populous country in Europe after Russia, and the most populous member state of the European Union. Germany is situated between the Baltic and North seas to the north, and the Alps to the south; it covers an area of 357,022 square kilometres (137,847 sq mi), with a population of almost 84 million within its 16 constituent states. Germany borders Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and largest city by population is Berlin and its financial centre is Frankfurt; the largest urban area is the Ruhr.");
+            }
+            else if (command == "USA")
+            {
+                Console.WriteLine("The United States of America (U.S.A. or USA), commonly known as the United States (U.S. or US) or America, is a transcontinental country located primarily in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine minor outlying islands,[j] and 326 Indian reservations. It is either the fourth- or third-largest country by land or total area, respectively.[d] The United States shares land borders with Canada to its north and with Mexico to its south. It has maritime borders with the Bahamas, Cuba, Russia, and other nations.[k] With a population of over 331 million,[e] it is the third most populous country in the world. The national capital is Washington, D.C., and the most populous city and financial center is New York City.");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
+            }
+            else if (command == "")
+            {
+                Console.WriteLine("");
             }
             else if (command == "")
             {
